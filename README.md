@@ -6,9 +6,9 @@
  * Cloud Native Storage
  * Kubernetes
  * Openshift
+ * Containers
  * Rook
  * Kubernetes-CSI
- * Docker
  * Ceph-CSI
 
 ## Things I like to do
