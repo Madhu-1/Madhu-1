@@ -24,7 +24,7 @@
 
 ![image](https://img.shields.io/twitter/follow/madhupr007?style=social)
 
-## Read my blogs [here](https://mrajanna.com)
+## Read my blogs [here](https://www.mrajanna.com)
 
 ![Madhu Rajanna github
 stats](https://github-readme-stats.vercel.app/api?username=Madhu-1)
