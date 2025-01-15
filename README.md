@@ -15,7 +15,6 @@
 
 🔭 Working on Opensource projects.
 ✍ Technical blogging.
-🎶 Listening to music, while working.
 
 ## How to reach me
 
